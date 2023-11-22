@@ -1,0 +1,21 @@
+.front-page {
+    background: url('https://c0.wallpaperflare.com/preview/742/447/595/business-information-accounting-application.jpg') center/cover no-repeat; 
+    height: 100vh;
+  }
+  
+  .hero-section {
+    padding-left: 100px;
+    padding-top: 200px;
+    margin-top: 0px; 
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+    color: black;
+  }
+  
+  .hero-section p {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    color: darkcyan;
+  }
